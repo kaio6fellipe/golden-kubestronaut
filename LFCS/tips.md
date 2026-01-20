@@ -4,3 +4,49 @@
   - It would be necessary to update the tldr database with `tldr --update` and maybe you will need to create the directory `~/.local/share/tldr`
 - if you don't remember a command, search with `apropos` (e.g. `apropos -s 1,8 "director"`, it will search for man page information and descriptions for the word "director")
 - Kodekloud notes to review: https://notes.kodekloud.com/docs/Linux-Foundation-Certified-System-Administrator-LFCS/Introduction/Course-Introduction
+
+## Domains and Competencies
+
+1. Operations Deployment (25%)
+   - [ ] Configure kernel parameters, persistent and non-persistent
+   - [x] Diagnose, identify, manage, and troubleshoot processes and services
+   - [x] Manage or schedule jobs for executing commands
+   - [x] Search for, install, validate, and maintain software packages or repositories
+   - [ ] Recover from hardware, operating system, or filesystem failures
+   - [ ] Manage Virtual Machines (libvirt)
+   - [ ] Configure container engines, create and manage containers
+   - [ ] Create and enforce MAC using SELinux
+
+2. Networking (25%)
+   - [ ] Configure IPv4 and IPv6 networking and hostname resolution
+   - [ ] Set and synchronize system time using time servers
+   - [ ] Monitor and troubleshoot networking
+   - [ ] Configure the OpenSSH server and client
+   - [ ] Configure packet filtering, port redirection, and NAT
+   - [ ] Configure static routing
+   - [ ] Configure bridge and bonding devices
+   - [ ] Implement reverse proxies and load balancers
+
+3. Storage (20%)
+   - [ ] Configure and manage LVM storage
+   - [ ] Manage and configure the virtual file system
+   - [ ] Create, manage, and troubleshoot filesystems
+   - [ ] Use remote filesystems and network block devices
+   - [ ] Configure and manage swap space
+   - [ ] Configure filesystem automounters
+   - [ ] Monitor storage performance
+
+4. Essential Commands (20%)
+   - [x] Basic Git Operations
+   - [x] Create, configure, and troubleshoot services
+   - [x] Monitor and troubleshoot system performance and services
+   - [x] Determine application and service specific constraints
+   - [x] Troubleshoot diskspace issues
+   - [x] Work with SSL certificates
+
+5. Users and Groups (10%)
+   - [ ] Create and manage local user and group accounts
+   - [ ] Manage personal and system-wide environment profiles
+   - [ ] Configure user resource limits
+   - [ ] Configure and manage ACLs
+   - [ ] Configure the system to use LDAP user and group accounts
