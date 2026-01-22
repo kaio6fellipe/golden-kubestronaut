@@ -13,3 +13,7 @@ Started the LFCS course at Kodekloud.
 ## Day 3 (20 Jan 2026)
 
 - 52% completed, 48% to go.
+
+## Day 4 (21 Jan 2026)
+
+- 58% completed, 42% to go.
