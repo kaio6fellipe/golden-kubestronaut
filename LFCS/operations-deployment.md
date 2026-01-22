@@ -1,5 +1,7 @@
 # Operations Deployment
 
+> Reference: [Kodekloud public notes](https://notes.kodekloud.com/docs/Linux-Foundation-Certified-System-Administrator-LFCS/Introduction/Course-Introduction)
+
 ## Boot, Reboot, and Shutdown
 
 **Basic Commands:**
