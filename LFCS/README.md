@@ -1,5 +1,7 @@
 # LFCS certification notes
 
+- [Tips](tips.md)
+
 ## Day 1 (17 Jan 2026)
 
 Started the LFCS course at Kodekloud.

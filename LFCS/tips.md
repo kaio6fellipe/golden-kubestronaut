@@ -52,3 +52,11 @@
    - [ ] Configure user resource limits
    - [ ] Configure and manage ACLs
    - [ ] Configure the system to use LDAP user and group accounts
+
+## Notes
+
+- [Operations Deployment](operations-deployment.md)
+- [Networking](networking.md)
+- [Storage](storage.md)
+- [Essential Commands](essential-commands.md)
+- [Users and Groups](users-and-groups.md)
