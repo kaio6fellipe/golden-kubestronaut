@@ -1,6 +1,11 @@
 # LFCS certification notes
 
 - [Tips](tips.md)
+- [Essential Commands](essential-commands.md)
+- [Users and Groups](users-and-groups.md)
+- [Operations Deployment](operations-deployment.md)
+- [Networking](networking.md)
+- [Storage](storage.md)
 
 ## Day 1 (17 Jan 2026)
 

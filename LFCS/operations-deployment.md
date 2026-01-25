@@ -2,6 +2,29 @@
 
 > Reference: [Kodekloud public notes](https://notes.kodekloud.com/docs/Linux-Foundation-Certified-System-Administrator-LFCS/Introduction/Course-Introduction)
 
+## Table of Contents
+
+- [Operations Deployment](#operations-deployment)
+  - [Table of Contents](#table-of-contents)
+  - [Boot, Reboot, and Shutdown](#boot-reboot-and-shutdown)
+  - [Boot Targets (Operating Modes)](#boot-targets-operating-modes)
+  - [Bash Scripting for System Maintenance](#bash-scripting-for-system-maintenance)
+  - [systemd Service Management](#systemd-service-management)
+  - [Creating systemd Services](#creating-systemd-services)
+  - [Process Management](#process-management)
+  - [System Logs](#system-logs)
+  - [Task Scheduling](#task-scheduling)
+  - [Package Management](#package-management)
+  - [Repository Configuration](#repository-configuration)
+  - [Compiling from Source](#compiling-from-source)
+  - [System Resource Verification](#system-resource-verification)
+  - [Kernel Runtime Parameters](#kernel-runtime-parameters)
+  - [SELinux](#selinux)
+  - [Container Management](#container-management)
+  - [Virtual Machines (libvirt)](#virtual-machines-libvirt)
+
+---
+
 ## Boot, Reboot, and Shutdown
 
 **Basic Commands:**
