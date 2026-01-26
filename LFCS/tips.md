@@ -47,11 +47,11 @@
    - [x] Work with SSL certificates
 
 5. Users and Groups (10%)
-   - [ ] Create and manage local user and group accounts
-   - [ ] Manage personal and system-wide environment profiles
-   - [ ] Configure user resource limits
-   - [ ] Configure and manage ACLs
-   - [ ] Configure the system to use LDAP user and group accounts
+   - [x] Create and manage local user and group accounts
+   - [x] Manage personal and system-wide environment profiles
+   - [x] Configure user resource limits
+   - [x] Configure and manage ACLs
+   - [x] Configure the system to use LDAP user and group accounts
 
 ## Notes
 
