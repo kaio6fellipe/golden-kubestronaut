@@ -20,14 +20,14 @@
      - [ ] Need to review
 
 2. Networking (25%)
-   - [ ] Configure IPv4 and IPv6 networking and hostname resolution
-   - [ ] Set and synchronize system time using time servers
-   - [ ] Monitor and troubleshoot networking
-   - [ ] Configure the OpenSSH server and client
-   - [ ] Configure packet filtering, port redirection, and NAT
-   - [ ] Configure static routing
-   - [ ] Configure bridge and bonding devices
-   - [ ] Implement reverse proxies and load balancers
+   - [x] Configure IPv4 and IPv6 networking and hostname resolution
+   - [x] Set and synchronize system time using time servers
+   - [x] Monitor and troubleshoot networking
+   - [x] Configure the OpenSSH server and client
+   - [x] Configure packet filtering, port redirection, and NAT
+   - [x] Configure static routing
+   - [x] Configure bridge and bonding devices
+   - [x] Implement reverse proxies and load balancers
 
 3. Storage (20%)
    - [ ] Configure and manage LVM storage
