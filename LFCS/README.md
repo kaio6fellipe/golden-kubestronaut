@@ -36,3 +36,7 @@ Started the LFCS course at Kodekloud.
 ## Day 7 (1 Feb 2026)
 
 - 93% completed, 7% to go.
+
+## Day 8 (2 Feb 2026)
+
+- 100% completed, 0% to go. Time to start the mock exams.
